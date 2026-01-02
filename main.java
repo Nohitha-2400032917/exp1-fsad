@@ -1,5 +1,1 @@
-class Main {
-    public static void main(String[] args) {
-        System.out.println("FSAD Git Lab");
-    }
-}
+System.out.println("Bug fixed");
